@@ -5,3 +5,19 @@
 
 /.quarto/
 **/*.quarto_ipynb
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Quarto build output (do not commit)
+_site/
+_freeze/
+.quarto/
+
+# Quarto/R markdown generated files
+*_files/
+posts_files/
+
+# Quarto temporary / error artifacts
+_quarto_internal_*.scss

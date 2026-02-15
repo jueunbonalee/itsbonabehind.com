@@ -12,6 +12,8 @@ page-layout: full
 title-block-banner: true
 ---
 
+## Bona Lee
+
 -   부산에서 나고 자라 현재는 5년차 스페인 마드리드 주민
 
 -   지난 5년간 미국/덴마크/스페인의 크고 작은 회사에서 마케터로 일했습니다

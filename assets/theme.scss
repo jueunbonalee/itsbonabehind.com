@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+/* Base theme (Bootswatch) */
+$theme: "litera" !default;
+
+/*-- font --*/
+@import url('https://fonts.googleapis.com/css2?family=Asta+Sans:wght@300..800&display=swap');
+
+$font-family-sans-serif: "Asta Sans", system-ui, -apple-system, sans-serif !default;
+$headings-font-family: "Asta Sans", system-ui, -apple-system, sans-serif !default;
+
+/*-- colors --*/
+$black: #000000;
+$rangoon-green: #1a1a1a;
+$pinkish-grey: #d1abab;
+$dust-storm: #e3cccc;
+$soft-peach: #f5eded;
+$white: #ffffff;
+
+/* Bootstrap/Quarto core color tokens */
+// $primary:   $pinkish-grey !default;
+// $secondary: $dust-storm !default;
+
+/* Light/Dark tokens used by Quarto/Bootstrap variables */
+// $light: $soft-peach !default;
+// $dark:  $rangoon-green !default;
+
+/* Page defaults */
+$body-bg:    $soft-peach !default;
+$body-color: $rangoon-green !default;
+
+/* Cards */
+$card-bg:            $soft-peach !default;
+$card-border-color:  $dust-storm !default;
+
+/* Navbar basic colors (keep simple) */
+$navbar-bg: $soft-peach !default;
+$navbar-fg: $rangoon-green !default;
+
+
+/*-- scss:rules --*/
+
+/* Ensure fonts apply */
+body {
+  font-family: $font-family-sans-serif;
+  color: $rangoon-green;
+  background: $soft-peach;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headings-font-family;
+}
+
+/* ===== Navbar: make it taller so the logo can be larger ===== */
+
+/* Quarto navbar logo — force override */
+header#quarto-header .navbar .navbar-brand-logo .navbar-logo {
+  height: 80px !important;
+  max-height: none !important;
+  width: auto !important;
+}
+
+/* Increase navbar vertical space */
+.navbar {
+  min-height: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.navbar .navbar-brand-logo .navbar-logo {
+  height: 90%;
+  width:auto;
+}
+
+.navbar .navbar-brand-logo {
+  align-items: center;
+}
+
+/* Mobile: slightly smaller so it doesn't feel cramped */
+ @media (max-width: 768px) {
+  .navbar {
+    min-height: 76px;
+  }
+
+  .navbar-brand img {
+    height: 56px;
+  }
+}

@@ -1,26 +1,37 @@
 project:
   type: website
+  resources: "images"
+
+execute:
+  freeze: auto
 
 website:
-  title: "it's bona behind"
+  title: "It's Bona Behind"
   site-url: https://itsbonabehind.com 
   description: "Personal blog by Jueun Bona Lee"
+  repo-url: https://github.com/jueunbonalee/itsbonabehind.com
+  image: images/logo.png
   navbar:
+    title: "  "
+    logo: images/logo.png
     right:
       #- text: about
       #  href: about.qmd
-      - text: posts
+      - text: POSTS
         href: posts.qmd
-      #- icon: github
-      #  href: https://github.com/
-      #- icon: twitter
-      #  href: https://twitter.com
+      - icon: instagram
+        href: https://www.instagram.com/itsbonabehind
+      - icon: github
+        href: https://github.com/jueunbonalee/itsbonabehind.com
+
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: assets/theme.scss
+    #css: assets/ek-styles.css
+    code-block-border-left: true
+    #highlight-style: assets/ek-light.theme
+    smooth-scroll: true
+    link-external-newwindow: true
 
 editor: visual
 

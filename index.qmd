@@ -1,0 +1,23 @@
+---
+#title: "itsbonabehind.com"
+#listing:
+#  contents: posts
+#  feed: true
+#  sort: "date desc"
+#  type: default
+#  categories: true
+#  sort-ui: false
+#  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+-   부산에서 나고 자라 현재는 5년차 스페인 마드리드 주민
+
+-   지난 5년간 미국/덴마크/스페인의 크고 작은 회사에서 마케터로 일했습니다
+
+-   지금은 UC3M에서 Computational Social Science를 공부하는 대학원생입니다
+
+-   데이터 사이언스와 사회과학 사이 (아무튼 즐거운) 줄다리기 중.. 읽고 쓰기를 좋아합니다
+
+-   Email: jueunbonalee\@gmail.com

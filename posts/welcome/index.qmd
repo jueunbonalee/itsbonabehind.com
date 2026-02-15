@@ -1,0 +1,16 @@
+---
+title: "테스트"
+description: |
+  테스트용 포스트입니다.
+date: "2026-02-12"
+author: "Bona"
+categories: [news]
+# open-graph: true
+# draft: false
+---
+
+<!--------------- post content ----------------->
+
+테스트용 포스트입니다.
+
+<!----------- appendices go here --------------->

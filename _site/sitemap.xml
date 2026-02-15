@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-website-url.example.com/posts.html</loc>
+    <lastmod>2026-02-15T14:38:15.648Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/index.html</loc>
+    <lastmod>2026-02-15T14:44:51.808Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/welcome/index.html</loc>
+    <lastmod>2026-02-15T14:55:17.183Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/about.html</loc>
+    <lastmod>2026-02-15T14:22:42.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://itsbonabehind.com/posts.html</loc>
+    <lastmod>2026-02-15T14:38:15.648Z</lastmod>
+  </url>
+</urlset>

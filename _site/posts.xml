@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>it&#39;s bona behind</title>
+<link>https://itsbonabehind.com/posts.html</link>
+<atom:link href="https://itsbonabehind.com/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Personal blog by Jueun Bona Lee</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Wed, 11 Feb 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>테스트</title>
+  <dc:creator>Bona </dc:creator>
+  <link>https://itsbonabehind.com/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<!--------------- post content ----------------->
+<p>테스트용 포스트입니다.</p>
+<!----------- appendices go here --------------->
+
+
+<!-- -->
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section></div> ]]></description>
+  <category>news</category>
+  <guid>https://itsbonabehind.com/posts/welcome/</guid>
+  <pubDate>Wed, 11 Feb 2026 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

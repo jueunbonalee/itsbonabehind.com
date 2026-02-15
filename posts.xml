@@ -5,10 +5,17 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>it&#39;s bona behind</title>
+<title>It&#39;s Bona Behind</title>
 <link>https://itsbonabehind.com/posts.html</link>
 <atom:link href="https://itsbonabehind.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Personal blog by Jueun Bona Lee</description>
+<image>
+<url>https://itsbonabehind.com/images/logo.png</url>
+<title>It&#39;s Bona Behind</title>
+<link>https://itsbonabehind.com/posts.html</link>
+<height>109</height>
+<width>144</width>
+</image>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Wed, 11 Feb 2026 23:00:00 GMT</lastBuildDate>
 <item>

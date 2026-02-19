@@ -10,10 +10,10 @@ website:
   site-url: https://itsbonabehind.com 
   description: "Personal blog by Jueun Bona Lee"
   repo-url: https://github.com/jueunbonalee/itsbonabehind.com
-  image: images/logo.png
+  image: images/new_logo_square.png
   navbar:
     title: "  "
-    logo: images/logo.png
+    logo: images/new_logo_square.png
     right:
       #- text: about
       #  href: about.qmd
@@ -21,8 +21,8 @@ website:
         href: posts.qmd
       - icon: instagram
         href: https://www.instagram.com/itsbonabehind
-      - icon: github
-        href: https://github.com/jueunbonalee/itsbonabehind.com
+      #- icon: github
+      #  href: https://github.com/jueunbonalee/itsbonabehind.com
 
 format:
   html:

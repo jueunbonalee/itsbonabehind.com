@@ -22,19 +22,19 @@ $white: #ffffff;
 // $secondary: $dust-storm !default;
 
 /* Light/Dark tokens used by Quarto/Bootstrap variables */
-// $light: $soft-peach !default;
+// $light: $white !default;
 // $dark:  $rangoon-green !default;
 
 /* Page defaults */
-$body-bg:    $soft-peach !default;
+$body-bg:    $white !default;
 $body-color: $rangoon-green !default;
 
 /* Cards */
-$card-bg:            $soft-peach !default;
+$card-bg:            $white !default;
 $card-border-color:  $dust-storm !default;
 
 /* Navbar basic colors (keep simple) */
-$navbar-bg: $soft-peach !default;
+$navbar-bg: $white !default;
 $navbar-fg: $rangoon-green !default;
 
 
@@ -44,7 +44,7 @@ $navbar-fg: $rangoon-green !default;
 body {
   font-family: $font-family-sans-serif;
   color: $rangoon-green;
-  background: $soft-peach;
+  background: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {

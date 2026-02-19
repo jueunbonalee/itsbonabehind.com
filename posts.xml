@@ -10,10 +10,10 @@
 <atom:link href="https://itsbonabehind.com/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Personal blog by Jueun Bona Lee</description>
 <image>
-<url>https://itsbonabehind.com/images/logo.png</url>
+<url>https://itsbonabehind.com/images/new_logo_square.png</url>
 <title>It&#39;s Bona Behind</title>
 <link>https://itsbonabehind.com/posts.html</link>
-<height>109</height>
+<height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.25</generator>

@@ -10,13 +10,13 @@
 <atom:link href="https://itsbonabehind.com/posts-r.xml" rel="self" type="application/rss+xml"/>
 <description>Personal blog by Jueun Bona Lee</description>
 <image>
-<url>https://itsbonabehind.com/images/logo.png</url>
+<url>https://itsbonabehind.com/images/new_logo_square.png</url>
 <title>It&#39;s Bona Behind</title>
 <link>https://itsbonabehind.com/posts.html#category=R</link>
-<height>109</height>
+<height>144</height>
 <width>144</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 15 Feb 2026 19:34:16 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Feb 2026 10:53:42 GMT</lastBuildDate>
 </channel>
 </rss>
